@@ -17,7 +17,7 @@ Lembre-se, precisa ter o Node.js instalado em seu sistema, em seguida siga os se
 1. Clone o projeto:
 
    ```bash
-   git clone https://github.com/L4urenmartins/Ordenando-Lista.git
+   git clone https://github.com/L4urenmartins/individualM4.git
    ```
 
 2. Entre no diretório do projeto:
