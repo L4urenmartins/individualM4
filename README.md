@@ -2,7 +2,8 @@
 
 ## Sobre o Projeto
 Com essa ferramenta, é possível inserir uma lista de propriedades CSS, ordená-la alfabeticamente e visualizar o resultado no terminal. 
-Esse Projeto é o projeto do módulo 4 
+Esse Projeto é o projeto do módulo 4 da formação Web FullStack Códigos do Amanhã parceria do Ebanx com a Resilia e teve como base os seguintes requisitos:
+"Uma empresa de desenvolvimento de software precisa de uma ferramenta que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolvê-la ordenada de A-Z."
 
 ## 💻 Tecnologias utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
