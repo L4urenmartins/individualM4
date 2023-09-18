@@ -10,7 +10,7 @@ function redlinePrompt() {
         redlinePrompt();
     } else {
         cssPropriedades.sort();
-        cssPropriedades.forEach((cssPropriedade)=>{
+        cssPropriedades.forEach((cssPropriedade) => {
             console.log(cssPropriedade);
         })
     }
