@@ -84,8 +84,18 @@ background-color, font-size, text-align
 ```
 
 ## 🆘 Tratamento de Erros
-- Caso o usuário insira uma entrada vazia, a ferramenta exibirá uma mensagem de erro.
+- Caso o usuário insira uma entrada vazia ou um número, a ferramenta exibirá uma mensagem de erro.
 - A ferramenta exibe mensagens de erro para guiar o usuário em cenários inesperados.
+
+
+
+| Entrada     | Saída                           |
+| :---------- |:---------------------------------- |
+| 12          | 'Entrada vazia ou inválida. Por favor, insira uma propriedade válida ou digite "SAIR".' |
+| " "         | 'Entrada vazia ou inválida. Por favor, insira uma propriedade válida ou digite "SAIR".' |
+
+
+
 
 ## 📑 Referências
 - [Documentação Node.js](https://nodejs.org/)
